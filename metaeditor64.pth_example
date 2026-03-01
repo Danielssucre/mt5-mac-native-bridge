@@ -1,0 +1,7 @@
+python39.zip
+.
+Lib\site-packages
+
+# Auto import on boot
+import site
+import rpyc_start
